@@ -5,9 +5,6 @@ A es archivo añadido o agregado
 COMANDOS:
 git init para inicializar
 git config--global user.mail "mbarrera..." para poner nuestro mail y otro git config ... user.name "..." para que nos de permiso
-<<<<<<< HEAD
 git add para agregar archivo
-=======
 git add para agregar archivo (git add . para todos o git add archvio.extension para un archivo puntual)
 git push para subir los cambios locales 
->>>>>>> refs/remotes/origin/main
